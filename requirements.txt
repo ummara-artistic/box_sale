@@ -1,11 +1,10 @@
 requests
 numpy
-sentence-transformers
-faiss-cpu
 python-dotenv
 pandas
 fastapi
 uvicorn
 fastapi
 uvicorn
+
 
