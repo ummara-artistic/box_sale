@@ -6,3 +6,6 @@ python-dotenv
 pandas
 fastapi
 uvicorn
+fastapi
+uvicorn
+
